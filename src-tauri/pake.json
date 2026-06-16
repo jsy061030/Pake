@@ -25,12 +25,9 @@
     }
   ],
   "user_agent": {
-    "macos": "Mozilla/5.0 (PC; OpenHarmony 6.0; Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 ArkWeb/6.0.0.115 Quark/7.4.6.681
-",
-    "linux": "Mozilla/5.0 (PC; OpenHarmony 6.0; Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 ArkWeb/6.0.0.115 Quark/7.4.6.681
-",
-    "windows": "Mozilla/5.0 (PC; OpenHarmony 6.0; Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 ArkWeb/6.0.0.115 Quark/7.4.6.681
-"
+    "macos": "Mozilla/5.0 (PC; OpenHarmony 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 ArkWeb/6.0.0.115 Quark/7.4.6.681",
+    "linux": "Mozilla/5.0 (PC; OpenHarmony 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 ArkWeb/6.0.0.115 Quark/7.4.6.681",
+    "windows": "Mozilla/5.0 (PC; OpenHarmony 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 ArkWeb/6.0.0.115 Quark/7.4.6.681"
   },
   "system_tray": {
     "macos": false,
